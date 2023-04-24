@@ -1,4 +1,4 @@
 # Libgdx-Terrain
 
 
-JamesTKhan Terrain height map  custom shader
+ Terrain height map  custom shader
